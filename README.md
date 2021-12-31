@@ -1,4 +1,5 @@
 # Theming in Flutter
+This page talks about few points I noted about Custom theming in a Flutter application.
 
 ## #1 `ColorScheme`
 
